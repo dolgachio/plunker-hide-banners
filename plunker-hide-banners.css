@@ -1,0 +1,11 @@
+.plunker-hide-banners .version-switcher{
+    display: none;
+}
+
+.plunker-hide-banners sidebar-footer {
+    display: none;
+}
+
+.plunker-hide-banners .plunker-edit-footer {
+    display: none;
+}
