@@ -9,3 +9,11 @@
 .plunker-hide-banners .plunker-edit-footer {
     display: none;
 }
+
+.plunker-hide-sidebar .plunker-sidebar-selectors {
+    display: none;
+}
+
+.plunker-hide-sidebar .plunker-sidebar-panes {
+    display: none;
+}
