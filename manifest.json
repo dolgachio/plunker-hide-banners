@@ -7,7 +7,7 @@
   
     "content_scripts": [
       {
-        "matches": ["*://next.plnkr.co/*"],
+        "matches": ["*://*.plnkr.co/*"],
         "js": ["plunker-hide-banners.js"],
         "css": ["plunker-hide-banners.css"]
       }

@@ -10,6 +10,10 @@
     display: none;
 }
 
+.plunker-hide-banners .plunker-embed-footer {
+    display: none;
+}
+
 .plunker-hide-sidebar .plunker-sidebar-selectors {
     display: none;
 }
